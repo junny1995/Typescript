@@ -1,4 +1,5 @@
 // 타입스크립트의 주요 원시 타입은 모두 소문자로 사용
+// 타입을 명시했을경우 명시적타입, 명시하지 않았을경우 추론타입
 
 // number
 function add(num1: number, num2: number) {
